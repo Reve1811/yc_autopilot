@@ -3,7 +3,9 @@
 ## Technologies Used
 
 - python
+  - ファイルパスの指定はos.path.join()を利用してください
 - pyautogui
+- windows10
 
 ## Development Setup
 
