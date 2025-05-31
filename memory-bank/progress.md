@@ -25,4 +25,5 @@
 - [x] `is_main_tab_active()` の修正
 - [x] `MAIN_TAB_IMAGE` を `MAIN_TAB_SELECTED_IMAGE` にリネーム
 - [x] activate_main_tab()の修正
+- [x] スクリーンショット取得の関数化
 - [x] 実行準備の作成前
